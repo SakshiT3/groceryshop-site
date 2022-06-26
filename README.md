@@ -3,14 +3,14 @@ A responsive online grocery shopping website built in HTML, CSS and Javascript.
 
 # Demo - groceryshop-site.netlify.app
 
-# Tech stake used
-HTML
-CSS
-Javascript
+# Tech Stack used:
+- HTML
+- CSS
+- Javascript 
 
 # Execution:
--Download the entire repository
--Open up the index.html
+- Download the entire repository
+- Open up the index.html
 
 
 
